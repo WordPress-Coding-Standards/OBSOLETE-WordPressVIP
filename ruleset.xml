@@ -2,5 +2,5 @@
 <ruleset name="WordPress VIP">
 	<description>WordPress Core + VIP Coding Standards</description>
 
-	<rule ref="WordPress/vip.ruleset.xml"/>
+	<rule ref="WordPress/Subsets/vip.ruleset.xml"/>
 </ruleset>
